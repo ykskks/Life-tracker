@@ -1,0 +1,16 @@
+.month {
+    width: 50%;
+}
+.month tr, .month td {
+    border: 1px solid black;
+}
+.month th {
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+}
+.month td {
+    width: 200px;
+    height: 50px;
+    padding: 0px 0px 20px 5px;
+}
